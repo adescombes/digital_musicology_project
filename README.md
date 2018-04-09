@@ -13,21 +13,21 @@ genetic factors as well as influence of the environmental during development, ac
 But some limitations of the AP have been identified :
 * many studies have shown that some AP possessors can judge more accurately the pitch varying on its timbre (for example the timbre of the piano has been acknowledged to be easier to identify, it is called the piano effect (3)).
 * absolute pitch is opposed to relative pitch (RP), which is the ability of identifying the interval played between two pitches.
-* some musicianshave AP for only a single tone, often the tone they tune their instrument with, for example A4 for violonists; it is defined as "quasi-AP". (4)
+* some musicians have AP for only a single tone, often the tone they tune their instrument with. It is defined as "quasi-AP"(4) (for example A4 for violonists).
 * AP possessors make occasional octave errors, but not errors in the chroma.
 
 
 ## Project
 
-The question of AP and RP is a quite active discussion among musicians, and these two are widely used tools. But I have been observing, during rehearsals, or learning of new pieces, that the capacities of musicians vary a lot when it comes to hearing. Moreover I didn't observe the finest hearing in the most experienced musician, and some of them took a lot of time to get good RP faculties.
-We are very interested in doing a study among musicians that surround us on the EPFL/UNIL campus, to try to link their hearing faculties to the learning of one or several instruments, the type of instrument (do players of a fretless strings instruments have a better pitch recognition ?), the type of apprenticeship (do AP possessors have all learned music theory ? Do the often play by hearing instead of reading a score ? How did RP possessors learn to recognize intervals ?), the frequency of AP over RP possessors, the ability of identifying a pitch on several instruments (Can a flute player identify a very low pitch easily ?).
-We'd mostly like to focus on the difference of pitch identification capacities between string instrument players and piano players, players of fretless string instruments and players of other types of string instruments. Indeed on a violin you have to search for the exact pitch, whereas on a guitare every note is indicated.
+The question of AP and RP is a quite active discussion among musicians, and these two are widely used skills. But it has been observed, that the capacities of musicians vary a lot when it comes to hearing. Moreover the finest hearing is not related with the most experienced musician, and some of them can take a long time to get good RP faculties.
+It would be interesting to do a study among musicians that surround us on the EPFL/UNIL campus, to try to link their hearing faculties to the learning of one or several instruments, the type of instrument (do players of a fretless strings instruments have a better pitch recognition ?), the type of apprenticeship (do AP possessors have all learned music theory ? Do the often play by hearing instead of reading a score ? How did RP possessors learn to recognize intervals ?), the frequency of AP over RP possessors, the ability of identifying a pitch on several instruments (Can a flute player identify a very low pitch easily ?).
+This study will focus on the difference of pitch identification capacities between string instrument players and piano players, players of fretless string instruments and players of other types of string instruments. Indeed on a violin you have to search for the exact pitch, whereas on a guitare every note is indicated.
 
-To proceed, we'd like to build a hearing test and a form to collect data from musicians, by testing their hearing capacities and observing their musical apprenticeship.
+To proceed, a hearing test as well as a form will be built to collect data from musicians, by testing their hearing capacities and observing their musical apprenticeship.
 The hearing test would be used to observe, for the participants, if they possess AP or RP, if their capacities vary on the timbre, and if it covers also the very high and very low pitches.
 
-For now we would like to construct this dataset ourselves, by gathering data on musicians on the campus (and around, for example music schools in Lausanne). We hope gathering around 20 to 30 participants.
-In a first time we will try to focus on how to build an efficient test for this kind of psychological study, and build audio files or a methodology to process to the hearing test.
+The dataset will consist of the results of these tests and forms, by gathering data on musicians on the campus (and around, for example music schools in Lausanne). Around 20 to 30 participants are expected.
+In a first time the focus will be on how to build an efficient test for this kind of psychological study, and build audio files or a methodology to process to the hearing test.
 
 
 
