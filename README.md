@@ -35,17 +35,17 @@ In a first time the focus will be on how to build an efficient test for this kin
 ## References
 
 
-* [1] A. Bachem, The Journal of the Acoustical Society of America, Volume 27, Issue 6 (1955)
+[1] A. Bachem, The Journal of the Acoustical Society of America, Volume 27, Issue 6 (1955)
 
-* [2]  [Baharloo, Siamak, et al. “Absolute Pitch: An Approach for Identification of Genetic and Nongenetic Components.” The American Journal of Human Genetics, vol. 62, no. 2, Feb. 1998, pp. 224–31, doi:10.1086/301704.](https://ac.els-cdn.com/S0002929707634867/1-s2.0-S0002929707634867-main.pdf?_tid=9d87961d-6596-4e64-886e-a8b22427e70b&acdnat=1521634550_f2bf5bc2e82c5fe352dda867c01d576b)
+[2]  [Baharloo, Siamak, et al. “Absolute Pitch: An Approach for Identification of Genetic and Nongenetic Components.” The American Journal of Human Genetics, vol. 62, no. 2, Feb. 1998, pp. 224–31, doi:10.1086/301704.](https://ac.els-cdn.com/S0002929707634867/1-s2.0-S0002929707634867-main.pdf?_tid=9d87961d-6596-4e64-886e-a8b22427e70b&acdnat=1521634550_f2bf5bc2e82c5fe352dda867c01d576b)
 
-* [3]  [Athos, E. Alexandra, et al. “Dichotomy and Perceptual Distortions in Absolute Pitch Ability.” Proceedings of the National Academy of Sciences, vol. 104, no. 37, Sept. 2007, pp. 14795–800, doi:10.1073/pnas.0703868104.](http://www.pnas.org/content/104/37/14795.long)
+[3]  [Athos, E. Alexandra, et al. “Dichotomy and Perceptual Distortions in Absolute Pitch Ability.” Proceedings of the National Academy of Sciences, vol. 104, no. 37, Sept. 2007, pp. 14795–800, doi:10.1073/pnas.0703868104.](http://www.pnas.org/content/104/37/14795.long)
 
-* [4] [Daniel J. Levtin and Susan E. Rogers. "Absolue pitch: perceoption, coding, and controversies." TRENDS in Cognitive Sciences, vol. 9, no. 1, Jan. 2005](https://pdfs.semanticscholar.org/6b97/f1a16513aff0567a3d55b719eae2f220e6b7.pdf)
+[4] [Daniel J. Levtin and Susan E. Rogers. "Absolue pitch: perceoption, coding, and controversies." TRENDS in Cognitive Sciences, vol. 9, no. 1, Jan. 2005](https://pdfs.semanticscholar.org/6b97/f1a16513aff0567a3d55b719eae2f220e6b7.pdf)
 
-* [5] [Robert J Zatorre. "Absolute pitch : a model for understanding the influence of genes and development on neural and cognitive function." Nature Neroscience, vol. 6, no. 7, Jul. 2003, doi:10.1038/nn1085](http://www.cogsci.ucsd.edu/~creel/COGS160/COGS160_files/zatorreNN2003.pdf)
+[5] [Robert J Zatorre. "Absolute pitch : a model for understanding the influence of genes and development on neural and cognitive function." Nature Neroscience, vol. 6, no. 7, Jul. 2003, doi:10.1038/nn1085](http://www.cogsci.ucsd.edu/~creel/COGS160/COGS160_files/zatorreNN2003.pdf)
 
-* [6] [Levitin Daniel J. L'oreille absolue : autoréférencement et mémoire. In: L'année psychologique. 2004 vol. 104, n°1. pp. 103-120;
+[6] [Levitin Daniel J. L'oreille absolue : autoréférencement et mémoire. In: L'année psychologique. 2004 vol. 104, n°1. pp. 103-120;
 doi : 10.3406/psy.2004.3930](http://www.persee.fr/doc/psy_0003-5033_2004_num_104_1_3930)
 
 
