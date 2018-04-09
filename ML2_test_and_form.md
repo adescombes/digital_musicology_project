@@ -1,58 +1,74 @@
-[Form here : ](https://docs.google.com/forms/d/1P1ym8JarJAZghTU-1nwLNatNFgqWBxnqtZ7UXKCrvuQ/prefill)
+[Evaluation form here : ](https://docs.google.com/forms/d/1P1ym8JarJAZghTU-1nwLNatNFgqWBxnqtZ7UXKCrvuQ/prefill)
 
 
 # ML2
 
-Several characteristics linked to AP have been discovered in previous studies, and the test and form that will be used must take them into account // (in order to ...) // 
-// The following list is based on those characteristics, and the questions should appear in the form to give an insight ...
-and in the auditive test. // 
-Verify the characteristics, give an insight on which characteristics we can find among the students that are also musicians on the campus.
+The goal of this Milestone was to build an experimental setup whose aim is to evaluate several characteristic of AP and musical skills for students that are also musicians on the campus.
+
+Several characteristics linked to AP have been tackled by previous studies, and they must be taken into account in this evaluation. The following list contains some of those characteristics that will be linked to questions of the evaluation. In a  first part the questions are more informative on the background of the participants, and in a second part they evaluate their earing capabilities, using audio files attached to the form. 
 
 
-## FORM 
-- begin by : Do you have AP ? RP ?
+### Background
 
-AP is known to have strong genetic associations, therefore AP possessors may have siblings who also possess AP (1).
-- Are there musicians in your family ?
-- Do you have members in your family that possess AP ?
+- AP is known to have strong genetic associations, therefore AP possessors may have siblings who also possess AP (1).
 
-AP possessors reported beginning their studies at a very young age : there is a *critical period* in which the subject is more likely to develop AP (from around 4 to 9 y.o.) (2)
-- What is your musical background (formation) ?
-- (If AP) Do you remember at what age you developped AP ?
+- AP possessors reported beginning their studies at a very young age (at or before 6 years old) : there is a *critical period* in which the subject is more likely to develop AP (from around 4 to 9 y.o.) (1). It can be music lessons as well as more informal or playful forms of increasing tonal awareness.
 
-We could also study the musical background. Is there a difference in the proportion of AP possessors between musicians more accustomed to improvise and musicians more accustomed to read a score ?
+- Although no studies has been found on this topic, the influence of musical background could also be studied. For instance, a difference may be found in the proportion of AP possessors between musicians more accustomed to improvise and musicians more accustomed to read a score.
 
 
 
-## TEST (describe the test more)
-This auditive test should evaluate the capacities of each participant. When testing the identification of pitches, the error must be reported. The participants are expected to identify the pitch category but not the height (precising the octave).
-// (PRECISING WHY) //
+### Audio test
 
-AP possessors are more accurate in the range of their instrument (cello -> lower, violin -> upper) (3)
--> make sure to test a WIDE RANGE of notes. // Going from... to... // 
-- and also to make a test with several timbres representing different instruments, and pure sines as well
+This auditive test should evaluate the capacities of the participants. The audio files will consist of recorded samples gathered in a file accessible for all participants by clicking a link available in the form. 
 
-The goal is to study the occurence of AP for musicians that can play string and/or fretless instruments. 
-- Can violin, cello and double bass players identify errors of less than one semitone ? The test must have a kind of special part where the auditive samples are a little deviated from the exact pitch, and the participants have the possibility to point out the error. // (Do we warn them at the beginning, by saying that it is possible that a pitch may be deviated?) // 
-- If this assumption is true, we should get a bigger proportion of AP possessors that are guitar/violin/bass/cello players. 
-- it could be also interesting to interview drummers and percussionists, because they may be a counter example of having received a musical education at a young age but not recognizing the pitches. 
+The participants are expected to identify the pitch class. They are not expected to identify the octave, for several reasons : first, there is no difference between AP possessors and nonpossessors in the amount of octave information transmitted, whereas significantly more pitch class information was transmitted to AP possessors than nonpossessors (2); and second the participants may also have difficulty with the terminology for denoting octaves and might therefore be prone to error.
+
+- Among musical instruments, the piano has been acknowledged as possessing the easiest timbre in which to identify pitch (3).
+- Familiarity with the timbre of an instrument can be a determinant of the accuracy with which an AP possessor can identify the pitch of tones (4)
+- Moreover pitches of pure tones or other electronically produced timbres are more difficult to identify rather than piano timbre (5) 
+These reasons all concern the pitch timbre. According to them, the samples must consist of pitches played by different timbres among piano, pure tones and various intruments. Among those intruments should be found timbres of violin, cello, guitar and double bass for instance, as chord instruments are the main interest of this study.
+
+
+- AP possessors generally make more accurate pitch identifications in central pitch registers than in very high or low registers (6), and also faster (7), although this observation has got exceptions : a double bass player is often more accurate with low pitches and a violin player is often more accurate in high pitches. In general even if most AP possessors are more accurate in the middle range of the keyboard, they are most accurate in the range of their instrument (6 & 8).
+- White-key pitches are identified faster and more accurately than black-key pitches, which correspond to sharp or flat notes (2 & 7).
+ Here these reasons point out the pitch range. The piano has a range going from A0 to C8.
+ 
+ //make sure to cover a range going from ... to ...// 
+
+// a compléter pour préciser quelles notes on veut!! //
+
+// samples : //
+// 2 x chaque pitch -> 24 notes au total, 1x son de piano, 1x divers sons (guitare, cello, violin, pure sine)//
 
 
 
 ## Steps
 
-[Data Gathering]
-The participants will be picked upon musicians of UNIL/EPFL campus, they can come from any musical background, musical formation, play of any instrument, as the goal is to study the influence of those factors. 
+The eligibility criteria for the participants is to have followed any musical study and/or to have learned how to play an instrument (by attending classes or in a self-educated way).
+The participants will be picked upon musicians of UNIL/EPFL campus. They can come from any musical background, musical formation, play of any instrument, as long as they correspond to the eligibility criteria.  
 
 The form will be a Google form that we can send by email to the participants, it will be more efficient and less time consuming than gathering the data "by hand". The audio files of the auditive test will be recorded by Arthur and I.
 We could however interview the firsts participants by hand to reajust some problems that could arise in the test and form.
+
+The results are automatically gathered in a Excel file, and will be analyzed as pursuing of this study. 
 
 
 
 ## References
 
-* [1] Baharloo, Johnston, Service, Gitschier and Freimer, 1998
+[1] Baharloo, S., Johnston, P.A., Service, S.K., Gitschier, J. and Freimer, N.B. (1998). *Absolute pitch: an approach for identification of genetic and nongenetic components.* American Journal of Human Genetics, 62(2), 224–231.
 
-* [2] Baharloo et al., 1998
+[2] Carroll, J. B. (1975). *Speed and accuracy of absolute pitch judgments: Some latter-day results.* Educational Testing Service Research Bulletin (RB-75-35). Princeton, NJ: Educational Testing Service.
 
-* [3] Miyasaki, 1989
+[3] Neu, D. M. (1947). *A critical review on the literature on "absolute pitch."* Psychological Bulletin, 44, 249-266.
+
+[4] Sergeant, D. C. (1969). *Experimental investigation of absolute pitch.* Journal of Research in Music Education, 17, 135-143.
+
+[5] Baggaley, J. (1974). *Measurement of absolute pitch: A confused field.* Psychology of Music, 2, 11-17.
+
+[6] Miyazaki, K. (1989). *Absolute pitch identification: Effects of timbre and pitch region.* Music Perception, 7,1-14.
+
+[7] Baird, J. W (1917). *Memory for absolute pitch.* In E. C. Sanford (Ed.), Studies in psychology, Titchener commemorative volume (pp. 43-78).Worcester, MA: Wilson.
+
+[8] Petran, L. A. (1932). *An experimental study of pitch recognition.* Psychological Monographs, 42 (No. 6), 1-120.
