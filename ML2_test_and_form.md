@@ -26,12 +26,14 @@ The participants are expected to identify the pitch class. They are not expected
 
 - Among musical instruments, the piano has been acknowledged as possessing the easiest timbre in which to identify pitch (3).
 - Familiarity with the timbre of an instrument can be a determinant of the accuracy with which an AP possessor can identify the pitch of tones (4)
-- Moreover pitches of pure tones or other electronically produced timbres are more difficult to identify rather than piano timbre (5) \
+- Moreover pitches of pure tones or other electronically produced timbres are more difficult to identify rather than piano timbre (5) \\
+
 These reasons all concern the pitch timbre. According to them, the samples must consist of pitches played by different timbres among piano, pure tones and various intruments. Among those intruments should be found timbres of violin, cello, guitar and double bass for instance, as chord instruments are the main interest of this study.
 
 
 - AP possessors generally make more accurate pitch identifications in central pitch registers than in very high or low registers (6), and also faster (7), although this observation has got exceptions : a double bass player is often more accurate with low pitches and a violin player is often more accurate in high pitches. In general even if most AP possessors are more accurate in the middle range of the keyboard, they are most accurate in the range of their instrument (6 & 8).
-- White-key pitches are identified faster and more accurately than black-key pitches, which correspond to sharp or flat notes (2 & 7).\
+- White-key pitches are identified faster and more accurately than black-key pitches, which correspond to sharp or flat notes (2 & 7).\\
+
 Here these reasons point out the pitch range. The piano has a range going from A0 to C8.
  
  //make sure to cover a range going from ... to ...// 
