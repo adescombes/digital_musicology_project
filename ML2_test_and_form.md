@@ -1,6 +1,5 @@
 [Evaluation form here : ](https://docs.google.com/forms/d/1P1ym8JarJAZghTU-1nwLNatNFgqWBxnqtZ7UXKCrvuQ/prefill)
 
-
 # ML2
 
 The goal of this Milestone was to build an experimental setup whose aim is to evaluate several characteristic of AP and musical skills for students that are also musicians on the campus.
@@ -16,9 +15,7 @@ Several characteristics linked to AP have been tackled by previous studies, and 
 
 - Although no studies has been found on this topic, the influence of musical background could also be studied. For instance, a difference may be found in the proportion of AP possessors between musicians more accustomed to improvise and musicians more accustomed to read a score.
 
-
-
-### Audio test
+### Audio test motivation
 
 This auditive test should evaluate the capacities of the participants. The audio files will consist of recorded samples gathered in a file accessible for all participants by clicking a link available in the form. 
 
@@ -30,11 +27,12 @@ The participants are expected to identify the pitch class. They are not expected
 
 These reasons all concern the pitch timbre. According to them, the samples must consist of pitches played by different timbres among piano, pure tones and various intruments. Among those intruments should be found timbres of violin, cello, guitar and double bass for instance, as chord instruments are the main interest of this study.
 
-
 - AP possessors generally make more accurate pitch identifications in central pitch registers than in very high or low registers (6), and also faster (7), although this observation has got exceptions : a double bass player is often more accurate with low pitches and a violin player is often more accurate in high pitches. In general even if most AP possessors are more accurate in the middle range of the keyboard, they are most accurate in the range of their instrument (6 & 8).
+
 - White-key pitches are identified faster and more accurately than black-key pitches, which correspond to sharp or flat notes (2 & 7).\
 
-Here these reasons point out the pitch range. The piano has a range going from A0 to C8.
+Previous points show the relevancy of identifying the role and relevancy of the change of timbre for absolute pitch evaluation.
+The piano has a range going from A0 to C8.
  
  //make sure to cover a range going from ... to ...// 
 
@@ -43,18 +41,27 @@ Here these reasons point out the pitch range. The piano has a range going from A
 // samples : //
 // 2 x chaque pitch -> 24 notes au total, 1x son de piano, 1x divers sons (guitare, cello, violin, pure sine)//
 
-
-
-## Steps
+## Participants
 
 The eligibility criteria for the participants is to have followed any musical study and/or to have learned how to play an instrument (by attending classes or in a self-educated way).
-The participants will be picked upon musicians of UNIL/EPFL campus. They can come from any musical background, musical formation, play of any instrument, as long as they correspond to the eligibility criteria.  
+The participants will be picked upon musicians of UNIL/EPFL campus. They can come from any musical background, musical formation, play of any instrument, as long as they correspond to the eligibility criteria.
 
-The form will be a Google form that we can send by email to the participants, it will be more efficient and less time consuming than gathering the data "by hand". The audio files of the auditive test will be recorded by Arthur and I.
-We could however interview the firsts participants by hand to reajust some problems that could arise in the test and form.
+## Evaluation interface
+
+The evaluation form will be a Google form that we can send by email to the participants, it will be more efficient and less time consuming than gathering the data "by hand".
+We could however interview the firsts participants by hand to reajust some problems that could arise in the firsts versions of the form.
 
 The results are automatically gathered in a Excel file, and will be analyzed as pursuing of this study. 
+  
+## Procedure and methodology
 
+### Questions
+
+The form will contain several questions that would qualify and evaluate the background of the musician.
+A set of questions will allow us to categorize the musicians depending on their instrumental practice, age, social environment, appreciation of music and other factors. Categories could to be defined a priori, some will probably appear to be relevant after looking at the results from the audio tests.
+An other set of questions will consider the subject's own perception of the importance of relative pitch and absolute pitch in their way of playing. These questions could espescially be proposed both in a context of improvisation and playing using either score sheet reading or known tunes. Discrimination will also be put on band or solo performances, for it could be changing (for instance in improvisation) the importance of absolute pitch versus relative pitch.
+
+The audio files of the auditive test will be recorded by Arthur and I.
 
 
 ## References
