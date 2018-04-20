@@ -13,7 +13,7 @@ if (octaves>1)
     for i=2:n
 
         shifts(i) = randi([0 octaves-1],1,1);
-        while (abs(sequence(i)+shifts(i)*12-sequence(i-1))<11)
+        while (abs(sequence(i)+shifts(i)*12-sequence(i-1))<12)
             shifts(i) = randi([0 octaves-1],1,1);
         end
         sequence(i) = sequence(i)+shifts(i)*12;
@@ -22,12 +22,19 @@ if (octaves>1)
 end
 
 notes = start + sequence - 1;
+names = strings(1,n);
 
-% mod(sequence,12) + 1
-% sequence
+for i=1:n
+    
+    [name,~] = playmidinote(notes(i));
+    names(i) = name;
+    
+end
+
+names
 
 prompt = 'What experiment? 1 = sin | 2 = piano | 3 = ... ';
-exp = input(prompt)
+exp = input(prompt);
 
 switch exp
     case 1
