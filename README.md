@@ -1,4 +1,4 @@
-# digital_musicology_project
+# A study on the influence of instrumental practice on hearing recognition among EPFL students
 
 
 ## Context : literature and definition of Absolute Pitch
